@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
+@import url('https://fonts.googleapis.com/css?family=Pangolin');
+@import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
+
+.pa{font-family: 'Pangolin', cursive;}
+.cs{font-family: 'Fredericka the Great', cursive;}
+.jg{font-family: 'Jeju Gothic', serif;}
+*
+h1 {
+	font-family: 'Fredericka the Great';
+}
+h2 {
+	font-family: 'Fredericka the Great';
+}
+h3 {
+	font-family: 'Fredericka the Great';
+}
+h4 {
+	font-family: 'Fredericka the Great';
+}
